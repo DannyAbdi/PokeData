@@ -1,0 +1,35 @@
+[33mcommit 43b17fe0ddb2419aa960942de21c2e87b4848961[m[33m ([m[1;36mHEAD -> [m[1;32mcleaning[m[33m)[m
+Author: DannyAbdi <dannyabdi13@gmail.com>
+Date:   Wed Oct 23 18:36:40 2024 +0100
+
+    combined datasets and removed unnecessary columns
+
+[33mcommit 733db681ae3cd33e078d484d0145f3e706a1d14a[m[33m ([m[1;32mmain[m[33m)[m
+Author: DannyAbdi <dannyabdi13@gmail.com>
+Date:   Wed Oct 23 18:27:46 2024 +0100
+
+    Made changes to csv files
+
+[33mcommit 97eccc434dc2fb05e0c564575f873643b0538754[m
+Author: DannyAbdi <dannyabdi13@gmail.com>
+Date:   Wed Oct 23 16:24:01 2024 +0100
+
+    Loaded Dataset
+
+[33mcommit e1c095aa139db607168fb64ff98a9401a00bb697[m
+Author: DannyAbdi <dannyabdi13@gmail.com>
+Date:   Wed Oct 23 16:23:19 2024 +0100
+
+    Added dataset for pokemon stats
+
+[33mcommit 372032ec92ff86c0f48d746ebd772df6627af313[m
+Author: DannyAbdi <dannyabdi13@gmail.com>
+Date:   Tue Oct 22 20:22:48 2024 +0100
+
+    Adding jupyter notebook file
+
+[33mcommit a6afc50fa8dd8fd9bf881af7b53f30c7a513ecfe[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DannyAbdi <89345218+DannyAbdi@users.noreply.github.com>
+Date:   Tue Oct 22 19:59:32 2024 +0100
+
+    Initial commit
